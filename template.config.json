@@ -1,0 +1,27 @@
+{
+  "slug": "studio-portfolio",
+  "name": "A Studio Portfolio",
+  "description": "A modern bento-grid portfolio template for creative directors and UI/UX designers. Features project, service offerings, methodology section, and contact form.",
+  "category": "design.portfolio",
+  "version": "1.0.0",
+  "license": "MIT",
+  "slot_schema_version": 1,
+  "author": {
+    "name": "Aryan",
+    "handle": "Aa11rn",
+    "url": "https://github.com/Aa11rn"
+  },
+  "tags": ["portfolio", "design", "ui-ux", "creative", "bento-grid", "responsive"],
+  "features": [
+    "responsive design",
+    "mobile navigation",
+    "hero section with stats",
+    "design philosophy section",
+    "project case study slider",
+    "service offerings grid",
+    "client logo banner",
+    "contact form",
+    "scroll reveal animations",
+    "back to top button"
+  ]
+}
